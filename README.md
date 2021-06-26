@@ -5,6 +5,8 @@ The following code contains PyTorch implementation of a simple Generative Advers
 
 ### Final Result
 
+**Simple Linear GAN**
+
 The model was trained for 200 epochs. The images that the generator produced after every epoch is shown in this gif below (the improvementts are clearly visible) - 
 
 ![generator_images](https://user-images.githubusercontent.com/47850206/123337064-52f27780-d564-11eb-9284-56e169120b3a.gif)
